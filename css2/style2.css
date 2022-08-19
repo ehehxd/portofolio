@@ -1,0 +1,21 @@
+.banner{
+    background:url("https://wallpapercave.com/dwp1x/wp8623049.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 30%;
+    padding-bottom: 30%;
+    color: #fff;
+}
+.bunder {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color:blueviolet;
+}
+.bunder i {
+    position: relative;
+    top: 30px;
+
+}
